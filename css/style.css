@@ -1,0 +1,11 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: bisque; 
+    position: relative;
+}
+
+.circle{
+    position: absolute;
+    opacity: .7;
+}
