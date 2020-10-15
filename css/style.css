@@ -3,9 +3,10 @@
     height: 100vh;
     background-color: bisque; 
     position: relative;
+    overflow: hidden;
 }
 
 .circle{
     position: absolute;
-    opacity: .7;
+    opacity: .65;
 }
